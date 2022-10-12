@@ -1,0 +1,10 @@
+{
+  "name": "@creators-galaxy/token-balances-cli",
+  "version": "1.0.0",
+  "description": "The easiest way to retrieve the balances of a given HTS Token.",
+  "main": "cli.js",
+  "scripts": {
+    "cli": "node cli",
+    "clxy": "node clxy"
+  }
+}
